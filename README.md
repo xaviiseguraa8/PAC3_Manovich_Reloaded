@@ -14,9 +14,7 @@ Mantella és un mod creat per a *The Elder Scrolls V: Skyrim* que integra tecnol
 
 Aquest mod transforma *Skyrim* en una experiència dinàmica, on els jugadors poden establir diàlegs personalitzats amb més de 2.000 NPCs del joc. Això expandeix la narrativa del joc de manera exponencial, fent que cada partida sigui única i adaptada a les preferències del jugador.
 
-![image](https://drive.google.com/file/d/1bleJ1AyTRPrmtMQxe5t1rfFegxIsyVpe/view?usp=drive_link)
-
-
+![image](https://github.com/user-attachments/assets/3dfcd546-ceec-4d90-bbf7-42cbcf96d261)
 
 ### Anàlisi
 Segons Lev Manovich, l'hibridació és la fusió d'elements de diferents mitjans o tecnologies per crear noves experiències. Mantella és un exemple perfecte d'aquest concepte:
@@ -37,6 +35,8 @@ El mod també exemplifica la filosofia del programari obert i col·laboratiu, ja
 Els concerts virtuals són esdeveniments musicals que tenen lloc en espais digitals immersius com *Fortnite*, *Roblox* o *Decentraland*. Artistes com Travis Scott, Ariana Grande i The Weeknd han portat les seves actuacions al món virtual, oferint experiències interactives i visuals impossibles en un escenari físic.
 
 Aquests concerts combinen realitat virtual (VR), efectes visuals generats per ordinador (CGI) i interacció en temps real amb els assistents. Per exemple, el concert de Travis Scott a *Fortnite* va atraure més de 12 milions de persones i va incloure elements visuals espectaculars com un avatar gegant que es movia al ritme de la música.
+
+![image](https://github.com/user-attachments/assets/9d2919d4-5b91-4119-ab04-92c2f1fecf22)
 
 ### Anàlisi
 Aquest cas d'hibridació il·lustra com es poden combinar diferents tecnologies i formats per reinventar un esdeveniment tradicional:
