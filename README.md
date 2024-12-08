@@ -14,7 +14,8 @@ Mantella és un mod creat per a *The Elder Scrolls V: Skyrim* que integra tecnol
 
 Aquest mod transforma *Skyrim* en una experiència dinàmica, on els jugadors poden establir diàlegs personalitzats amb més de 2.000 NPCs del joc. Això expandeix la narrativa del joc de manera exponencial, fent que cada partida sigui única i adaptada a les preferències del jugador.
 
-![mantella](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_mZFkTchwEo&psig=AOvVaw29dQ4ejhL3fX24bj2hbLv8&ust=1733754589472000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLi3pKexmIoDFQAAAAAdAAAAABAE)
+![mantella](https://drive.google.com/file/d/1bleJ1AyTRPrmtMQxe5t1rfFegxIsyVpe/view?usp=drive_link)
+
 
 
 ### Anàlisi
