@@ -3,7 +3,7 @@
 ## Autor: Xavier
 
 ### Descripció de l'activitat
-Aquesta activitat tracta d'explorar el concepte d'hibridació segons Lev Manovich, present al llibre *El software toma el mando*. Analitzarem dos exemples recents d'hibridació tecnològica no inclosos en el llibre original: el mod **Mantella** per a *Skyrim* i els concerts virtuals al Metavers. Aquests casos exemplifiquen com la fusió de diferents tecnologies i disciplines genera experiències noves i transformadores.
+Aquesta activitat tracta d'explorar el concepte d'hibridació segons Lev Manovich, present al llibre *El software toma el mando*. Analitzarem dos exemples recents d'hibridació tecnològica no inclosos en el llibre original: el mod **Mantella** per a *Skyrim* i els concerts virtuals al **Metavers**. Aquests casos exemplifiquen com la fusió de diferents tecnologies i disciplines genera experiències noves i transformadores.
 
 ---
 
